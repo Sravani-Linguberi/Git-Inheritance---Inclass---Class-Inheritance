@@ -6,7 +6,7 @@
 // export class using module.exports
 //import shape from './shape';
 const shape = require('./shape');
-Module.Exports = circle;
+
  class circle extends shape {
     constructor() {
       super();
@@ -18,4 +18,5 @@ Module.Exports = circle;
       }
       
   }
+  Module.Exports = circle;
   //
