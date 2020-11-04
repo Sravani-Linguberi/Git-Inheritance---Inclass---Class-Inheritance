@@ -5,7 +5,8 @@
 
 // export class using module.exports
 import shape from './shape';
-export default class circle extends shape {
+Module.Exports
+ class circle extends shape {
     constructor() {
       super();
     }

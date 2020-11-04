@@ -8,7 +8,8 @@
 // Write code for Shape class in shape.js and Circle in circle.js
 // // export class using module.exports
 
-export default class shape { // es6 export way
+Module.Exports
+ class shape { // es6 export way
     constructor() {
         this.color = "red";
     }
