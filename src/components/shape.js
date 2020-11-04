@@ -22,3 +22,4 @@ export default class shape { // es6 export way
     
 }
  
+//
