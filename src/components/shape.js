@@ -22,6 +22,6 @@ class shape { // es6 export way
     }
     
 }
-Module.Exports = shape;
+module.exports = shape;
  
 //
